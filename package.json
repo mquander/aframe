@@ -38,7 +38,6 @@
   ],
   "dependencies": {
     "@tweenjs/tween.js": "^16.8.0",
-    "browserify-css": "^0.8.2",
     "debug": "ngokevin/debug#noTimestamp",
     "deep-assign": "^2.0.0",
     "document-register-element": "dmarcos/document-register-element#8ccc532b7f3744be954574caf3072a5fd260ca90",
@@ -54,6 +53,7 @@
   },
   "devDependencies": {
     "browserify": "^13.1.0",
+    "browserify-css": "^0.8.4",
     "browserify-derequire": "^0.9.4",
     "browserify-istanbul": "^2.0.0",
     "budo": "^9.2.0",
